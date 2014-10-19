@@ -1,0 +1,14 @@
+1. tc vs inheritance
+- prefer delegation to inheritance
+- adding behavior to external classes
+- separation of concerns
+- dictionary passing
+- composition
+- syntax
+2. common tc
+- Equal/Show
+- Monoid
+- json Reads/Writes/Format
+3. custom tc
+- Meta
+- ACL/Applicative
