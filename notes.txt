@@ -12,3 +12,4 @@
 3. custom tc
 - Meta
 - ACL/Applicative
+https://docs.google.com/presentation/d/1p7B-oDGgmYR-NhJUc4H0vVC71sLn51_Ver3dRhgIzLU/edit?usp=sharing
